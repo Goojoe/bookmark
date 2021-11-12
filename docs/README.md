@@ -1,6 +1,4 @@
-导航
-
-# [工具](tool)
+# 工具
 
 ## 站长工具
 
@@ -55,5 +53,18 @@
 - [世界时间](https://time.is/Los_Angeles)+1
 
 
-# [博客](blog)
+# 博客
+
+- [咕咕乔](https://goojoe.cc)it's me!
+
+- [杏玲の小本](https://66ccff.work/)
+
+- [ceabq](https://ceabq.top/)
+
+
+# Github
+
+- [Aria2一键安装脚本](https://github.com/P3TERX/aria2.sh)
+
+- [Aria2NgGUI](https://github.com/mayswind/AriaNg/releases)
 
