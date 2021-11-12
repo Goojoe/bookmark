@@ -2,15 +2,15 @@
 
 # [工具](tool)
 
-### 站长工具
+## 站长工具
 
 - [站长ping](https://ping.chinaz.com)
 
-### 临时邮箱
+## 临时邮箱
 
 - [Smailpro](https://smailpro.com/advanced)
 
-### 计算
+## 计算
 
 - [网速计算](http://www.zhongguosou.com/computer_question_tools/data_rate_caculator.html)
 
@@ -44,7 +44,7 @@
 
 - [json格式化](https://www.json.cn/)
 
-### 趣味小工具
+## 趣味小工具
 
 - [英文字体修改](https://igfonts.io)
 
